@@ -1,5 +1,7 @@
 # systematic_chores
-absolute transparency about chores. 
+Absolute transparency about chores.     
+This MIGHT BE the guid on how to do chores correctly.     
+Maybe you can teach a robot. Or teach yourself.
 
 # RULE 1: PUT THINGS BACK!
 
