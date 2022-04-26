@@ -49,5 +49,18 @@ def kitchen_appliances():
         pass
 
 
+def cleaning_supply():
+    def dish_washing_pod():
+        pass
+
+    def hand_soap():
+        pass
+
+    def hand_towels():
+        pass
+
+    def general_wipes():
+        pass
+
 
 
